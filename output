@@ -1,0 +1,31 @@
+
+ USDC Token Account Info:
+{
+  data: <Buffer 01 00 00 00 1c e3 59 ed 5a 01 2e 04 fa 14 2b 9c 75 1a 1c 5e 87 cf d0 a0 16 1b 9c 85 ff d3 1b 78 cd fc d8 f6 7a 77 bd 28 4e e3 11 00 06 01 01 00 00 00 ... 32 more bytes>,
+  executable: false,
+  lamports: 146540070945,
+  owner: PublicKey {
+    _bn: <BN: 6ddf6e1d765a193d9cbe146ceeb79ac1cb485ed5f5b37913a8cf5857eff00a9>
+  },
+  rentEpoch: 333
+}
+
+ usdc data is 
+<Buffer 01 00 00 00 1c e3 59 ed 5a 01 2e 04 fa 14 2b 9c 75 1a 1c 5e 87 cf d0 a0 16 1b 9c 85 ff d3 1b 78 cd fc d8 f6 7a 77 bd 28 4e e3 11 00 06 01 01 00 00 00 ... 32 more bytes>
+
+ Mint_Authority_Coption value is
+1
+
+ Mint Authoriy Public Key is 
+2wmVCSfPxGPjrnMMn7rchp4uaeoTqN39mXFC2zhPdri9
+Uint8Array is
+Uint8Array(8) [
+  122, 119, 189, 40,
+   78, 227,  17,  0
+]
+
+ Supply decoded 
+5034999434540922
+
+ decimal value is
+6
